@@ -48,7 +48,7 @@ The following is an example of a very simple job script.
 # Load modules
 module load python/3.10.9-fasrc01 
 
-# Activate conda environment (optional)
+# Activate uv environment (optional)
 
 # Run the job
 python my_script.py
